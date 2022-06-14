@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Combinaciones>
+  <Combinacion>
+    <Estado>D</Estado>
+    <SubEstado>1</SubEstado>
+    <TipoCarga>No variable</TipoCarga>
+  </Combinacion>
+  <Combinacion>
+    <Estado>W</Estado>
+    <SubEstado>4</SubEstado>
+    <TipoCarga>Variable</TipoCarga>
+  </Combinacion>
+  <Combinacion>
+    <Estado>L</Estado>
+    <SubEstado>4</SubEstado>
+    <TipoCarga>Variable</TipoCarga>
+  </Combinacion>
+  <Combinacion>
+    <Estado>LR</Estado>
+    <SubEstado>3</SubEstado>
+    <TipoCarga>Variable</TipoCarga>
+  </Combinacion>
+  <Combinacion>
+    <Estado>T</Estado>
+    <SubEstado>1</SubEstado>
+    <TipoCarga>Variable</TipoCarga>
+  </Combinacion>
+  <Combinacion>
+    <Estado>F</Estado>
+    <SubEstado>1</SubEstado>
+    <TipoCarga>Variable</TipoCarga>
+  </Combinacion>
+  <Combinacion>
+    <Estado>H</Estado>
+    <SubEstado>1</SubEstado>
+    <TipoCarga>Variable</TipoCarga>
+  </Combinacion>
+  <Combinacion>
+    <Estado>S</Estado>
+    <SubEstado>1</SubEstado>
+    <TipoCarga>Variable</TipoCarga>
+  </Combinacion>
+  <Combinacion>
+    <Estado>R</Estado>
+    <SubEstado>2</SubEstado>
+    <TipoCarga>Variable</TipoCarga>
+  </Combinacion>
+  <Combinacion>
+    <Estado>E</Estado>
+    <SubEstado>1</SubEstado>
+    <TipoCarga>Variable</TipoCarga>
+  </Combinacion>
+</Combinaciones>

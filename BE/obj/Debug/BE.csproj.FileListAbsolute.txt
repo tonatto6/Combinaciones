@@ -1,0 +1,6 @@
+C:\Combinaciones\Combinaciones\BE\bin\Debug\BE.dll
+C:\Combinaciones\Combinaciones\BE\bin\Debug\BE.pdb
+C:\Combinaciones\Combinaciones\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Combinaciones\Combinaciones\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Combinaciones\Combinaciones\BE\obj\Debug\BE.dll
+C:\Combinaciones\Combinaciones\BE\obj\Debug\BE.pdb

@@ -1,0 +1,16 @@
+C:\Combinaciones\Combinaciones\UI\bin\Debug\UI.exe.config
+C:\Combinaciones\Combinaciones\UI\bin\Debug\UI.exe
+C:\Combinaciones\Combinaciones\UI\bin\Debug\UI.pdb
+C:\Combinaciones\Combinaciones\UI\bin\Debug\BE.dll
+C:\Combinaciones\Combinaciones\UI\bin\Debug\BE.pdb
+C:\Combinaciones\Combinaciones\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Combinaciones\Combinaciones\UI\obj\Debug\UI.frmPrincipal.resources
+C:\Combinaciones\Combinaciones\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Combinaciones\Combinaciones\UI\obj\Debug\UI.csproj.GenerateResource.cache
+C:\Combinaciones\Combinaciones\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Combinaciones\Combinaciones\UI\obj\Debug\UI.exe
+C:\Combinaciones\Combinaciones\UI\obj\Debug\UI.pdb
+C:\Combinaciones\Combinaciones\UI\bin\Debug\UI.exe.manifest
+C:\Combinaciones\Combinaciones\UI\bin\Debug\UI.application
+C:\Combinaciones\Combinaciones\UI\obj\Debug\UI.exe.manifest
+C:\Combinaciones\Combinaciones\UI\obj\Debug\UI.application
